@@ -9,7 +9,6 @@ module.exports = function myStepDefinitions () {
 
     this.Given(/^that I have gone to the Google page$/, function (callback) {
         browser.waitForAngularEnabled(false);
-        browser.driver.manage().window().maximize();
         browser.driver.get('http://google.com');
         browser.driver.controlFlow().execute(callback);
     });

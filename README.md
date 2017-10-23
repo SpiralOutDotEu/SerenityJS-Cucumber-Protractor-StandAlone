@@ -1,5 +1,6 @@
 # SerenityJS - CucumberJS - Protractor  
 ## Standalone testing suite with JavaScript
+[![CircleCI](https://circleci.com/gh/SpiralOutDotEu/SerenityJS-Cucumber-Protractor-StandAlone.svg?style=svg)](https://circleci.com/gh/SpiralOutDotEu/SerenityJS-Cucumber-Protractor-StandAlone)
 
 Basic boilerplate for testing using SerenityJS, CucumberJS and Protractor.
 
